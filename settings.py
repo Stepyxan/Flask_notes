@@ -1,1 +1,1 @@
-uri="<your mongodb collection ref>"
+uri="<your mongodb database ref>"
